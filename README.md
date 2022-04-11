@@ -1,6 +1,6 @@
 # leetcode-java
 
-刷 LeetCode 算法的题解仓库，算法题解以 issue 形式记录。
+用于记录数据结构与算法的笔记，以及 leetcode 算法题解。使用 issues 进行记录。
 
 我个人比较喜欢使用 issue 记录一些知识点，因为 issue 的功能比较丰富，可以很方便的进行分类、修改、补充。
 
